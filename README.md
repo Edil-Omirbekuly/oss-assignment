@@ -1,4 +1,4 @@
-# Network Scanner and Traffic Analysis
+# Network Scanner, Traffic Analysis and Password Cracking
 
 This script allows you to scan a network for open ports and perform traffic analysis on a specific IP address. It uses the `nmap` library for network scanning, the `scapy` library for packet sniffing and `requests` library for password cracking.
 
