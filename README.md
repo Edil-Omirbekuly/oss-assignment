@@ -17,7 +17,7 @@ This script allows you to scan a network for open ports and perform traffic anal
    
  2. Run the script:
     ```bash
-    python network_scanner.py
+    python script.py
     
  3. Follow the prompts to enter the IP address for scanning and the network interface for traffic analysis.
 
