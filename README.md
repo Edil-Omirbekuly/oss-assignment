@@ -4,7 +4,6 @@ This script allows you to scan a network for open ports and perform traffic anal
 
 ## Prerequisites
 
-- Python 3.x
 - nmap library (`pip install python-nmap`)
 - scapy library (`pip install scapy`)
 - requests library (`pip install requests`)
